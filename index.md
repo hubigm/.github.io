@@ -5,3 +5,6 @@ Gandalf der Graue, auch Gandalf Graurock, Mithrandir (Sindarin für: Grauer Pilg
 * weise
 * magisch
 * raucht gern Pfeife
+
+As Gandalf said:
+> Flieht, ihr Narren!
